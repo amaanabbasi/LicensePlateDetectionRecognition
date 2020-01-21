@@ -4,7 +4,6 @@ Automating the task of recognition of license plate characters.
 ### Credits
 [Achraf KHAZRI](https://towardsdatascience.com/automatic-license-plate-detection-recognition-using-deep-learning-624def07eaaf)
 
-![Screenshot from 2020-01-22 00-04-31](https://user-images.githubusercontent.com/30196830/72832390-cecefd00-3caa-11ea-9280-1f6d8f07d598.png)
 
 ### Prerequisites
 - Download the lapi.weights file and paste it into /src/detection.
@@ -24,3 +23,4 @@ python main.py --i=number-plate.jpg
 
 - src/results: contains the images ofthe extracted licenseplate and segmented characters.
 
+![Screenshot from 2020-01-22 00-04-31](https://user-images.githubusercontent.com/30196830/72832390-cecefd00-3caa-11ea-9280-1f6d8f07d598.png)
