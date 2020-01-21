@@ -1,19 +1,19 @@
 # LicensePlateDetectionRecognition
 Automating the task of recognition of license plate characters.
 
-#Credits
+### Credits
 [Achraf KHAZRI](https://towardsdatascience.com/automatic-license-plate-detection-recognition-using-deep-learning-624def07eaaf)
 
-# Prerequisites
+### Prerequisites
 - Download the lapi.weights file and paste it into /src/detection.
 
-# Installing dependencies (Python3)
+### Installing dependencies (Python3)
 - pip install -r requirements.txt
 
-# Usage
+### Usage
 python main.py --i=number-plate.jpg
 
-# Directory Overview
+### Directory Overview
 
 - src/detection: contains the code related to the detection of the licenseplate in the scene,
                  extraction and segmentation of characters.
