@@ -24,3 +24,5 @@ python main.py --i=number-plate.jpg
 - src/results: contains the images ofthe extracted licenseplate and segmented characters.
 
 ![Screenshot from 2020-01-22 00-04-31](https://user-images.githubusercontent.com/30196830/72832390-cecefd00-3caa-11ea-9280-1f6d8f07d598.png)
+
+- Deep learning can improve the results, will be pushing soon.
