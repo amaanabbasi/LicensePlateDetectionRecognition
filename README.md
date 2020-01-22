@@ -6,7 +6,7 @@ Automating the task of recognition of license plate characters.
 
 
 ### Prerequisites
-- Download the lapi.weights file and paste it into /src/detection.
+- Download the [lapi.weights](https://www.kaggle.com/achrafkhazri/yolo-weights-for-licence-plate-detector) file and paste it into /src/detection.
 
 ### Installing dependencies (Python3)
 - pip install -r requirements.txt
